@@ -152,4 +152,4 @@ below to solve this one.
 * [JSON Data](http://json.org/)
 * [Rounding in Ruby](http://ruby-doc.org/core-2.2.0/Float.html#method-i-round)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-bachelor-todo' title='Advanced Nested Hash Manipulation II: The Bachelor'>Advanced Nested Hash Manipulation II: The Bachelor</a> on Learn.co and start learning to code for free.</p>
+
